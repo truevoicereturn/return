@@ -6,7 +6,8 @@
 In <b>RETURN</b>, no companies, organizations, or governments can control the network! You are free to express your opinions while others can see them without any censorship.
 
 ```yaml
-We are working hard to improve the app. Please check back every two days to get the latest release!
+We are working hard to improve the app.
+Please check back every two days to get the latest release!
 ```
 
 ## A Healthy Ecosystem in Blockchain
