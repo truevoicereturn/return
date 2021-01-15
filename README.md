@@ -30,7 +30,7 @@ No one can modify or delete your messages in <b>RETURN</b>. You are the only one
 
 ## How to Get Started?
 
-Download the <b>RETURN</b> app <a href="https://github.com/truevoicereturn/return/releases/download/v3.0/app-release.apk">here</a>. No personal information is required, not even your email.
+Download the <b>RETURN</b> app <a href="https://github.com/truevoicereturn/return/releases/download/v3.0/app-release.apk">here (v3.0)</a>. No personal information is required, not even your email.
 
 Next, three easy steps to get the fuel to start your journey in <b>RETURN</b>:
 
